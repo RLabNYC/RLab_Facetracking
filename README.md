@@ -3,11 +3,11 @@
 # Welcome!
 
 
-# Authors
+## Authors
 
 Todd Bryant, Kat Sullivan, Grant Ng and Jiuxin Zhu
 
-# From the RLab!
+## From the RLab!
 
 To learn more about us visit our website [here](https://www.rlab.nyc/)
 
