@@ -12,15 +12,18 @@ Todd Bryant, Kat Sullivan, Grant Ng and Jiuxin Zhu
 Greetings from the RLab! To learn more about us and what we do visit our website [here](https://www.rlab.nyc/)
 
 # Table of Contents
-1. Exporting Blendshapes from character creator software and importing into Maya
-   - Opening up Character Creator 3 (CC3)
-   - Starting with a base model
-   - Export as a fbx
-   - Import into Maya
-   - Fixing blendshapes
-2. Python Scripting
-   - Knowledge and Filestructuring
-   - Renaming the blendshapes
-3. Importing in Unreal
+1. Creating 3D characters and importing them into Maya
+   - Reallusion Character Creator 3 (CC3)
+   - Adobe Fusion
+   - Make Human
+	 - These are all free softwares that are available to download. 
+2. Exporting Model with blendshapes
+   - Reallusion export
+   - Adobe Fusion export
+   - Make Human export
+3. Running our Scripts
    - Importing the FBX
    - Setting up blueprints in Unreal
+4. Importing into Game Engine
+   - Import settings for Unreal
+   - Import settings for Unity (WIP)
