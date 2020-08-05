@@ -21,9 +21,11 @@ Greetings from the RLab! To learn more about us and what we do visit our website
    - Reallusion export
    - Adobe Fusion export
    - Make Human export
-3. Running our Scripts
+3. Running our Scripts in Maya
+   - Python scripting
    - Importing the FBX
-   - Setting up blueprints in Unreal
 4. Importing into Game Engine
+   - Setting up blueprints in Unreal
    - Import settings for Unreal
    - Import settings for Unity (WIP)
+   
