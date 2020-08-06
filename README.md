@@ -21,7 +21,10 @@ Greetings from the RLab! To learn more about us and what we do visit our website
    - Make Human export
    - Reallusion export
 3. Running our Scripts in Maya
-   - [Importing the FBX](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md#import-the-fbx-from-mixamo)
+   - Importing the FBX
+     - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md#import-the-fbx-from-mixamo)
+     - Make Human
+     - Reallusion
    - Python scripting (Each are different!)
      - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md#using-python)
      - Make Human
