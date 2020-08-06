@@ -26,7 +26,7 @@ Greetings from the RLab! To learn more about us and what we do visit our website
      - Make Human
      - Reallusion
    - Python scripting (Each are different!)
-     - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md#using-python)
+     - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md#using-python-in-maya)
      - Make Human
      - Reallusion
 4. Importing into Game Engine
