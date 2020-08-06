@@ -10,12 +10,11 @@ Todd Bryant, Kat Sullivan, Grant Ng and Jiuxin Zhu
 
 ## From the RLab!
 Greetings from the RLab! To learn more about us and what we do visit our website [here](https://www.rlab.nyc/)
-
+   - These are all free softwares that are available to download.
 # Table of Contents
 1. Creating 3D characters
    - [Adobe Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/README.md#for-beginners)
    - Make Human
-	 - These are all free softwares that are available to download.
    - Reallusion Character Creator 3 (CC3) 
 2. Exporting Model with blendshapes
    - [Adobe Fuse export](https://github.com/RLabNYC/Rlab_FaceTracking_fuse#exporting-the-blendshapes)
