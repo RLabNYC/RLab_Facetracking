@@ -13,14 +13,14 @@ Greetings from the RLab! To learn more about us and what we do visit our website
 
 # Table of Contents
 1. Creating 3D characters and importing them into Maya
-   - Reallusion Character Creator 3 (CC3)
-   - [Adobe Fusion](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/README.md#for-beginners)
+   - [Adobe Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/README.md#for-beginners)
    - Make Human
-	 - These are all free softwares that are available to download. 
+	 - These are all free softwares that are available to download.
+   - Reallusion Character Creator 3 (CC3) 
 2. Exporting Model with blendshapes
-   - Reallusion export
-   - [Adobe Fusion export](https://github.com/RLabNYC/Rlab_FaceTracking_fuse#exporting-the-blendshapes)
+   - [Adobe Fuse export](https://github.com/RLabNYC/Rlab_FaceTracking_fuse#exporting-the-blendshapes)
    - Make Human export
+   - Reallusion export
 3. Running our Scripts in Maya
    - [Importing the FBX](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md#import-the-fbx-from-mixamo)
    - Python scripting (Each are different!)
