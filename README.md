@@ -13,7 +13,7 @@ Greetings from the RLab! To learn more about us and what we do visit our website
    - These are all free softwares that are available to download.
 # Table of Contents
 1. Creating 3D characters
-   - [Adobe Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/README.md#from-the-rlab)
+   - [Adobe Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/README.md)
    - Make Human
    - Reallusion Character Creator 3 (CC3) 
 2. Exporting Model with blendshapes
