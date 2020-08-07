@@ -15,17 +15,17 @@ Greetings from the RLab! To learn more about us and what we do visit our website
 1. Avatar Creation and Exporting
    - [Adobe Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse)
    - [Make Human](https://github.com/RLabNYC/Rlab_FaceTracking_mkhu)
-   - Reallusion 
+   - [Reallusion](https://github.com/RLabNYC/Rlab_FaceTracking_reallusion)
 2. Running our Scripts in Maya
    - Importing the FBX
    - Python scripting (Each are different!)
      - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md)
      - [Make Human](https://github.com/RLabNYC/Rlab_FaceTracking_mkhu/blob/master/RUNSCRIPT.md)
-     - Reallusion
+     - [Reallusion](https://github.com/RLabNYC/Rlab_FaceTracking_reallusion/blob/master/RUNSCRIPT.md)
 3. Importing In the Unreal Engine
    - Import settings
    - Setting up blueprints
      - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/IMPORTING.md)
      - [Make Human](https://github.com/RLabNYC/Rlab_FaceTracking_mkhu/blob/master/IMPORTING.md)
-     - Reallusion
+     - [Reallusion](https://github.com/RLabNYC/Rlab_FaceTracking_reallusion/blob/master/IMPORTING.md)
    
