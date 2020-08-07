@@ -12,31 +12,23 @@ Todd Bryant, Kat Sullivan, Grant Ng and Jiuxin Zhu
 Greetings from the RLab! To learn more about us and what we do visit our website [here](https://www.rlab.nyc/)
    - These are all free softwares that are available to download.
 # Table of Contents
-1. Creating 3D characters
+1. Avatar Creation and Exporting
    - [Adobe Fuse repo](https://github.com/RLabNYC/Rlab_FaceTracking_fuse)
    - Make Human repo
    - Reallusion repo 
-2. Exporting Model with blendshapes
-   - [Adobe Fuse export](https://github.com/RLabNYC/Rlab_FaceTracking_fuse#exporting-the-blendshapes)
-   - Make Human export
-   - Reallusion export
-3. Running our Scripts in Maya
+2. Running our Scripts in Maya
    - Importing the FBX
-     - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md#import-the-fbx-from-mixamo)
-     - Make Human
-     - Reallusion
    - Python scripting (Each are different!)
-     - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md#using-python-in-maya)
+     - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/RUNSCRIPT.md)
      - Make Human
      - Reallusion
-4. Importing into Game Engine
-   - Import settings for Unreal
+3. Importing In the Unreal Engine
+   - Import settings
      - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/IMPORTING.md#importing-into-unreal)
      - Make Human
      - Reallusion
-   - Setting up blueprints in Unreal
+   - Setting up blueprints
      - [Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse/blob/master/IMPORTING.md#blueprints-in-unreal)
      - Make Human
      - Reallusion
-   - Import settings for Unity (WIP)
    
