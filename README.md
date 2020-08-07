@@ -13,9 +13,9 @@ Greetings from the RLab! To learn more about us and what we do visit our website
    - These are all free softwares that are available to download.
 # Table of Contents
 1. Avatar Creation and Exporting
-   - [Adobe Fuse repo](https://github.com/RLabNYC/Rlab_FaceTracking_fuse)
-   - Make Human repo
-   - Reallusion repo 
+   - [Adobe Fuse](https://github.com/RLabNYC/Rlab_FaceTracking_fuse)
+   - Make Human 
+   - Reallusion 
 2. Running our Scripts in Maya
    - Importing the FBX
    - Python scripting (Each are different!)
